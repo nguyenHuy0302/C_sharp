@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\bin\Debug\net6.0\ss12_SW_checkNguyenAm.exe
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\bin\Debug\net6.0\ss12_SW_checkNguyenAm.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\bin\Debug\net6.0\ss12_SW_checkNguyenAm.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\bin\Debug\net6.0\ss12_SW_checkNguyenAm.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\bin\Debug\net6.0\ss12_SW_checkNguyenAm.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ss12_SW_checkNguyenAm.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ss12_SW_checkNguyenAm.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ss12_SW_checkNguyenAm.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ss12_SW_checkNguyenAm.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ss12_SW_checkNguyenAm.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ss12_SW_checkNguyenAm.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\refint\ss12_SW_checkNguyenAm.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ss12_SW_checkNguyenAm.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ss12_SW_checkNguyenAm.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss12_SW_checkNguyenAm\obj\Debug\net6.0\ref\ss12_SW_checkNguyenAm.dll

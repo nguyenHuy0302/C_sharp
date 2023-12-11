@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\bin\Debug\net6.0\ss6_PrintUniqueArray.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\bin\Debug\net6.0\ss6_PrintUniqueArray.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\bin\Debug\net6.0\ss6_PrintUniqueArray.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\bin\Debug\net6.0\ss6_PrintUniqueArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\bin\Debug\net6.0\ss6_PrintUniqueArray.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ss6_PrintUniqueArray.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ss6_PrintUniqueArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ss6_PrintUniqueArray.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ss6_PrintUniqueArray.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ss6_PrintUniqueArray.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ss6_PrintUniqueArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\refint\ss6_PrintUniqueArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ss6_PrintUniqueArray.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ss6_PrintUniqueArray.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss6_PrintUniqueArray\obj\Debug\net6.0\ref\ss6_PrintUniqueArray.dll

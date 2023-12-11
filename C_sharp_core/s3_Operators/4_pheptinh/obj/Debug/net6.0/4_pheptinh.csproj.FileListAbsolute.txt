@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\bin\Debug\net6.0\4_pheptinh.exe
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\bin\Debug\net6.0\4_pheptinh.deps.json
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\bin\Debug\net6.0\4_pheptinh.runtimeconfig.json
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\bin\Debug\net6.0\4_pheptinh.dll
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\bin\Debug\net6.0\4_pheptinh.pdb
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\4_pheptinh.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\4_pheptinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\4_pheptinh.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\4_pheptinh.AssemblyInfo.cs
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\4_pheptinh.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\4_pheptinh.dll
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\refint\4_pheptinh.dll
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\4_pheptinh.pdb
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\4_pheptinh.genruntimeconfig.cache
+E:\C#\C_sharp_core\s3_Operators\4_pheptinh\obj\Debug\net6.0\ref\4_pheptinh.dll

@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\bin\Debug\net6.0\ss3_SumArray.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\bin\Debug\net6.0\ss3_SumArray.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\bin\Debug\net6.0\ss3_SumArray.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\bin\Debug\net6.0\ss3_SumArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\bin\Debug\net6.0\ss3_SumArray.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ss3_SumArray.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ss3_SumArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ss3_SumArray.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ss3_SumArray.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ss3_SumArray.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ss3_SumArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\refint\ss3_SumArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ss3_SumArray.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ss3_SumArray.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss3_SumArray\obj\Debug\net6.0\ref\ss3_SumArray.dll

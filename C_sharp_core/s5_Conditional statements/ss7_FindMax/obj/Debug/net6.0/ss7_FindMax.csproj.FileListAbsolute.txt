@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\bin\Debug\net6.0\ss7_FindMax.exe
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\bin\Debug\net6.0\ss7_FindMax.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\bin\Debug\net6.0\ss7_FindMax.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\bin\Debug\net6.0\ss7_FindMax.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\bin\Debug\net6.0\ss7_FindMax.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ss7_FindMax.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ss7_FindMax.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ss7_FindMax.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ss7_FindMax.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ss7_FindMax.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ss7_FindMax.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\refint\ss7_FindMax.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ss7_FindMax.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ss7_FindMax.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss7_FindMax\obj\Debug\net6.0\ref\ss7_FindMax.dll

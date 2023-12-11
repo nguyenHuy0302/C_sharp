@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\bin\Debug\net6.0\s3_Operators.exe
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\bin\Debug\net6.0\s3_Operators.deps.json
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\bin\Debug\net6.0\s3_Operators.runtimeconfig.json
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\bin\Debug\net6.0\s3_Operators.dll
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\bin\Debug\net6.0\s3_Operators.pdb
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\s3_Operators.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\s3_Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\s3_Operators.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\s3_Operators.AssemblyInfo.cs
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\s3_Operators.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\s3_Operators.dll
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\refint\s3_Operators.dll
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\s3_Operators.pdb
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\s3_Operators.genruntimeconfig.cache
+E:\C#\C_sharp_core\s3_Operators\s3_Operators\obj\Debug\net6.0\ref\s3_Operators.dll

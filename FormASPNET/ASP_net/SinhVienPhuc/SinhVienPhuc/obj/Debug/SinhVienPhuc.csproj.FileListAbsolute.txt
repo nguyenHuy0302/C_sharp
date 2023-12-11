@@ -1,0 +1,14 @@
+E:\C#\SinhVienPhuc\SinhVienPhuc\bin\Debug\SINHVIENPHUC.mdf
+E:\C#\SinhVienPhuc\SinhVienPhuc\bin\Debug\SINHVIENPHUC_log.ldf
+E:\C#\SinhVienPhuc\SinhVienPhuc\bin\Debug\SinhVienPhuc.exe.config
+E:\C#\SinhVienPhuc\SinhVienPhuc\bin\Debug\SinhVienPhuc.exe
+E:\C#\SinhVienPhuc\SinhVienPhuc\bin\Debug\SinhVienPhuc.pdb
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.csproj.AssemblyReference.cache
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.Properties.Resources.resources
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.SinhVien.resources
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.TaiKhoan.resources
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.csproj.GenerateResource.cache
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.csproj.CoreCompileInputs.cache
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.exe
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.pdb
+E:\C#\SinhVienPhuc\SinhVienPhuc\obj\Debug\SinhVienPhuc.frm_main.resources

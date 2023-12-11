@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\bin\Debug\net6.0\ss13_InSodaoNguoc.exe
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\bin\Debug\net6.0\ss13_InSodaoNguoc.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\bin\Debug\net6.0\ss13_InSodaoNguoc.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\bin\Debug\net6.0\ss13_InSodaoNguoc.dll
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\bin\Debug\net6.0\ss13_InSodaoNguoc.pdb
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ss13_InSodaoNguoc.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ss13_InSodaoNguoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ss13_InSodaoNguoc.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ss13_InSodaoNguoc.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ss13_InSodaoNguoc.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ss13_InSodaoNguoc.dll
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\refint\ss13_InSodaoNguoc.dll
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ss13_InSodaoNguoc.pdb
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ss13_InSodaoNguoc.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss13_InSodaoNguoc\obj\Debug\net6.0\ref\ss13_InSodaoNguoc.dll

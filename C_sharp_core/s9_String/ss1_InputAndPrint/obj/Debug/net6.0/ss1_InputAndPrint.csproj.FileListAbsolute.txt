@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\bin\Debug\net6.0\ss1_InputAndPrint.exe
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\bin\Debug\net6.0\ss1_InputAndPrint.deps.json
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\bin\Debug\net6.0\ss1_InputAndPrint.runtimeconfig.json
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\bin\Debug\net6.0\ss1_InputAndPrint.dll
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\bin\Debug\net6.0\ss1_InputAndPrint.pdb
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ss1_InputAndPrint.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ss1_InputAndPrint.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ss1_InputAndPrint.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ss1_InputAndPrint.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ss1_InputAndPrint.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ss1_InputAndPrint.dll
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\refint\ss1_InputAndPrint.dll
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ss1_InputAndPrint.pdb
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ss1_InputAndPrint.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_String\ss1_InputAndPrint\obj\Debug\net6.0\ref\ss1_InputAndPrint.dll

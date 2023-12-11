@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\bin\Debug\net6.0\ss2_PrintReverse.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\bin\Debug\net6.0\ss2_PrintReverse.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\bin\Debug\net6.0\ss2_PrintReverse.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\bin\Debug\net6.0\ss2_PrintReverse.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\bin\Debug\net6.0\ss2_PrintReverse.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ss2_PrintReverse.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ss2_PrintReverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ss2_PrintReverse.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ss2_PrintReverse.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ss2_PrintReverse.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ss2_PrintReverse.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\refint\ss2_PrintReverse.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ss2_PrintReverse.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ss2_PrintReverse.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss2_PrintReverse\obj\Debug\net6.0\ref\ss2_PrintReverse.dll

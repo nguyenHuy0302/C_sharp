@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\bin\Debug\net6.0\ss7_DemNguyenPhuAm.exe
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\bin\Debug\net6.0\ss7_DemNguyenPhuAm.deps.json
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\bin\Debug\net6.0\ss7_DemNguyenPhuAm.runtimeconfig.json
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\bin\Debug\net6.0\ss7_DemNguyenPhuAm.dll
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\bin\Debug\net6.0\ss7_DemNguyenPhuAm.pdb
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ss7_DemNguyenPhuAm.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ss7_DemNguyenPhuAm.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ss7_DemNguyenPhuAm.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ss7_DemNguyenPhuAm.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ss7_DemNguyenPhuAm.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ss7_DemNguyenPhuAm.dll
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\refint\ss7_DemNguyenPhuAm.dll
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ss7_DemNguyenPhuAm.pdb
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ss7_DemNguyenPhuAm.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_String\ss7_DemNguyenPhuAm\obj\Debug\net6.0\ref\ss7_DemNguyenPhuAm.dll

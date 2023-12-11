@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\net6.0\Nhap_xuat_co_ban.exe
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\net6.0\Nhap_xuat_co_ban.deps.json
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\net6.0\Nhap_xuat_co_ban.runtimeconfig.json
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\net6.0\Nhap_xuat_co_ban.dll
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\bin\Debug\net6.0\Nhap_xuat_co_ban.pdb
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\Nhap_xuat_co_ban.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\Nhap_xuat_co_ban.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\Nhap_xuat_co_ban.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\Nhap_xuat_co_ban.AssemblyInfo.cs
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\Nhap_xuat_co_ban.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\Nhap_xuat_co_ban.dll
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\refint\Nhap_xuat_co_ban.dll
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\Nhap_xuat_co_ban.pdb
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\Nhap_xuat_co_ban.genruntimeconfig.cache
+E:\C#\C_sharp_core\Nhap_xuat_co_ban\Nhap_xuat_co_ban\obj\Debug\net6.0\ref\Nhap_xuat_co_ban.dll

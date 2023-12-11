@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\bin\Debug\net6.0\ss1_checkprime.exe
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\bin\Debug\net6.0\ss1_checkprime.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\bin\Debug\net6.0\ss1_checkprime.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\bin\Debug\net6.0\ss1_checkprime.dll
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\bin\Debug\net6.0\ss1_checkprime.pdb
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ss1_checkprime.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ss1_checkprime.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ss1_checkprime.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ss1_checkprime.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ss1_checkprime.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ss1_checkprime.dll
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\refint\ss1_checkprime.dll
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ss1_checkprime.pdb
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ss1_checkprime.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss1_checkprime\obj\Debug\net6.0\ref\ss1_checkprime.dll

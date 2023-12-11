@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\bin\Debug\net6.0\ss15_Uoc_Boi.exe
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\bin\Debug\net6.0\ss15_Uoc_Boi.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\bin\Debug\net6.0\ss15_Uoc_Boi.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\bin\Debug\net6.0\ss15_Uoc_Boi.dll
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\bin\Debug\net6.0\ss15_Uoc_Boi.pdb
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ss15_Uoc_Boi.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ss15_Uoc_Boi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ss15_Uoc_Boi.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ss15_Uoc_Boi.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ss15_Uoc_Boi.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ss15_Uoc_Boi.dll
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\refint\ss15_Uoc_Boi.dll
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ss15_Uoc_Boi.pdb
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ss15_Uoc_Boi.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss15_Uoc_Boi\obj\Debug\net6.0\ref\ss15_Uoc_Boi.dll

@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\bin\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.exe
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\bin\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.deps.json
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\bin\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.runtimeconfig.json
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\bin\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.dll
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\bin\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.pdb
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.AssemblyInfo.cs
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.dll
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\refint\ss4_DemKhoangTrangTrongChuoi.dll
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.pdb
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ss4_DemKhoangTrangTrongChuoi.genruntimeconfig.cache
+E:\C#\C_sharp_core\s10_Ham\ss4_DemKhoangTrangTrongChuoi\obj\Debug\net6.0\ref\ss4_DemKhoangTrangTrongChuoi.dll

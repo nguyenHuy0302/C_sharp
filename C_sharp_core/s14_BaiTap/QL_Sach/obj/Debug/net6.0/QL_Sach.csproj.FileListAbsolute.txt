@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\bin\Debug\net6.0\QL_Sach.exe
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\bin\Debug\net6.0\QL_Sach.deps.json
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\bin\Debug\net6.0\QL_Sach.runtimeconfig.json
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\bin\Debug\net6.0\QL_Sach.dll
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\bin\Debug\net6.0\QL_Sach.pdb
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\QL_Sach.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\QL_Sach.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\QL_Sach.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\QL_Sach.AssemblyInfo.cs
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\QL_Sach.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\QL_Sach.dll
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\refint\QL_Sach.dll
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\QL_Sach.pdb
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\QL_Sach.genruntimeconfig.cache
+E:\C#\C_sharp_core\s14_BaiTap\QL_Sach\obj\Debug\net6.0\ref\QL_Sach.dll

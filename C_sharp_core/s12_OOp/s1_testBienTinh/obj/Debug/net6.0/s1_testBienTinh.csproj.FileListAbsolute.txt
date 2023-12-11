@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\bin\Debug\net6.0\s1_testBienTinh.exe
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\bin\Debug\net6.0\s1_testBienTinh.deps.json
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\bin\Debug\net6.0\s1_testBienTinh.runtimeconfig.json
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\bin\Debug\net6.0\s1_testBienTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\bin\Debug\net6.0\s1_testBienTinh.pdb
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\s1_testBienTinh.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\s1_testBienTinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\s1_testBienTinh.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\s1_testBienTinh.AssemblyInfo.cs
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\s1_testBienTinh.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\s1_testBienTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\refint\s1_testBienTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\s1_testBienTinh.pdb
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\s1_testBienTinh.genruntimeconfig.cache
+E:\C#\C_sharp_core\s12_OOp\s1_testBienTinh\obj\Debug\net6.0\ref\s1_testBienTinh.dll

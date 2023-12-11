@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "s3_testConstructorTinh/1.0.0": {
+        "runtime": {
+          "s3_testConstructorTinh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s3_testConstructorTinh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

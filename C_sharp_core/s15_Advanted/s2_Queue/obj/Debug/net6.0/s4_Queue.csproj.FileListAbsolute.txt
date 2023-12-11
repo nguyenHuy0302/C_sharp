@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\bin\Debug\net6.0\s4_Queue.exe
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\bin\Debug\net6.0\s4_Queue.deps.json
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\bin\Debug\net6.0\s4_Queue.runtimeconfig.json
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\bin\Debug\net6.0\s4_Queue.dll
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\bin\Debug\net6.0\s4_Queue.pdb
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\s4_Queue.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\s4_Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\s4_Queue.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\s4_Queue.AssemblyInfo.cs
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\s4_Queue.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\s4_Queue.dll
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\refint\s4_Queue.dll
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\s4_Queue.pdb
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\s4_Queue.genruntimeconfig.cache
+E:\C#\C_sharp_core\s15_Advanted\s2_Queue\obj\Debug\net6.0\ref\s4_Queue.dll

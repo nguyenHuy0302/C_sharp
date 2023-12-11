@@ -1,0 +1,14 @@
+E:\ASP_net\Slide_01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.exe
+E:\ASP_net\Slide_01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.deps.json
+E:\ASP_net\Slide_01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.json
+E:\ASP_net\Slide_01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.dev.json
+E:\ASP_net\Slide_01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.dll
+E:\ASP_net\Slide_01\Bai1\Bai1\bin\Debug\netcoreapp3.1\Bai1.pdb
+E:\ASP_net\Slide_01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.AssemblyReference.cache
+E:\ASP_net\Slide_01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP_net\Slide_01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfoInputs.cache
+E:\ASP_net\Slide_01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfo.cs
+E:\ASP_net\Slide_01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.CoreCompileInputs.cache
+E:\ASP_net\Slide_01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.dll
+E:\ASP_net\Slide_01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.pdb
+E:\ASP_net\Slide_01\Bai1\Bai1\obj\Debug\netcoreapp3.1\Bai1.genruntimeconfig.cache

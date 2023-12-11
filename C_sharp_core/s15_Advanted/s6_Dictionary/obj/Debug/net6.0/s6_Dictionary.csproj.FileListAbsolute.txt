@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\bin\Debug\net6.0\s6_Dictionary.exe
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\bin\Debug\net6.0\s6_Dictionary.deps.json
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\bin\Debug\net6.0\s6_Dictionary.runtimeconfig.json
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\bin\Debug\net6.0\s6_Dictionary.dll
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\bin\Debug\net6.0\s6_Dictionary.pdb
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\s6_Dictionary.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\s6_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\s6_Dictionary.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\s6_Dictionary.AssemblyInfo.cs
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\s6_Dictionary.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\s6_Dictionary.dll
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\refint\s6_Dictionary.dll
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\s6_Dictionary.pdb
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\s6_Dictionary.genruntimeconfig.cache
+E:\C#\C_sharp_core\s15_Advanted\s6_Dictionary\obj\Debug\net6.0\ref\s6_Dictionary.dll

@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\bin\Debug\net6.0\ss3_CheckChanLe.exe
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\bin\Debug\net6.0\ss3_CheckChanLe.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\bin\Debug\net6.0\ss3_CheckChanLe.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\bin\Debug\net6.0\ss3_CheckChanLe.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\bin\Debug\net6.0\ss3_CheckChanLe.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ss3_CheckChanLe.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ss3_CheckChanLe.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ss3_CheckChanLe.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ss3_CheckChanLe.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ss3_CheckChanLe.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ss3_CheckChanLe.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\refint\ss3_CheckChanLe.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ss3_CheckChanLe.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ss3_CheckChanLe.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss3_CheckChanLe\obj\Debug\net6.0\ref\ss3_CheckChanLe.dll

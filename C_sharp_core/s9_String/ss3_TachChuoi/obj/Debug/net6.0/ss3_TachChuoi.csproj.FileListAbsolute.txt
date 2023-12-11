@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\bin\Debug\net6.0\ss3_TachChuoi.exe
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\bin\Debug\net6.0\ss3_TachChuoi.deps.json
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\bin\Debug\net6.0\ss3_TachChuoi.runtimeconfig.json
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\bin\Debug\net6.0\ss3_TachChuoi.dll
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\bin\Debug\net6.0\ss3_TachChuoi.pdb
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ss3_TachChuoi.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ss3_TachChuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ss3_TachChuoi.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ss3_TachChuoi.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ss3_TachChuoi.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ss3_TachChuoi.dll
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\refint\ss3_TachChuoi.dll
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ss3_TachChuoi.pdb
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ss3_TachChuoi.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_String\ss3_TachChuoi\obj\Debug\net6.0\ref\ss3_TachChuoi.dll

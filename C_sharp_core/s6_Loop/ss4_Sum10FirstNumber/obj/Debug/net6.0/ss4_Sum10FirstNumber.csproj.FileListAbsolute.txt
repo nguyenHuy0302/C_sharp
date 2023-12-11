@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\bin\Debug\net6.0\ss4_Sum10FirstNumber.exe
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\bin\Debug\net6.0\ss4_Sum10FirstNumber.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\bin\Debug\net6.0\ss4_Sum10FirstNumber.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\bin\Debug\net6.0\ss4_Sum10FirstNumber.dll
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\bin\Debug\net6.0\ss4_Sum10FirstNumber.pdb
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ss4_Sum10FirstNumber.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ss4_Sum10FirstNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ss4_Sum10FirstNumber.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ss4_Sum10FirstNumber.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ss4_Sum10FirstNumber.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ss4_Sum10FirstNumber.dll
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\refint\ss4_Sum10FirstNumber.dll
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ss4_Sum10FirstNumber.pdb
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ss4_Sum10FirstNumber.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss4_Sum10FirstNumber\obj\Debug\net6.0\ref\ss4_Sum10FirstNumber.dll

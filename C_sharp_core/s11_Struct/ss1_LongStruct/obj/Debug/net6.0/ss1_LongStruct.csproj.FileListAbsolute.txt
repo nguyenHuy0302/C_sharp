@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ss1_LongStruct.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ss1_LongStruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ss1_LongStruct.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ss1_LongStruct.AssemblyInfo.cs
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ss1_LongStruct.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\bin\Debug\net6.0\ss1_LongStruct.exe
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\bin\Debug\net6.0\ss1_LongStruct.deps.json
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\bin\Debug\net6.0\ss1_LongStruct.runtimeconfig.json
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\bin\Debug\net6.0\ss1_LongStruct.dll
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\bin\Debug\net6.0\ss1_LongStruct.pdb
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ss1_LongStruct.dll
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\refint\ss1_LongStruct.dll
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ss1_LongStruct.pdb
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ss1_LongStruct.genruntimeconfig.cache
+E:\C#\C_sharp_core\s11_Struct\ss1_LongStruct\obj\Debug\net6.0\ref\ss1_LongStruct.dll

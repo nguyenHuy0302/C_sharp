@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\bin\Debug\net6.0\s3_Stack.exe
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\bin\Debug\net6.0\s3_Stack.deps.json
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\bin\Debug\net6.0\s3_Stack.runtimeconfig.json
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\bin\Debug\net6.0\s3_Stack.dll
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\bin\Debug\net6.0\s3_Stack.pdb
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\s3_Stack.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\s3_Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\s3_Stack.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\s3_Stack.AssemblyInfo.cs
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\s3_Stack.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\s3_Stack.dll
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\refint\s3_Stack.dll
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\s3_Stack.pdb
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\s3_Stack.genruntimeconfig.cache
+E:\C#\C_sharp_core\s15_Advanted\s3_Stack\obj\Debug\net6.0\ref\s3_Stack.dll

@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\bin\Debug\net6.0\ss12_ChuHoa_ChuThuong.exe
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\bin\Debug\net6.0\ss12_ChuHoa_ChuThuong.deps.json
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\bin\Debug\net6.0\ss12_ChuHoa_ChuThuong.runtimeconfig.json
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\bin\Debug\net6.0\ss12_ChuHoa_ChuThuong.dll
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\bin\Debug\net6.0\ss12_ChuHoa_ChuThuong.pdb
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ss12_ChuHoa_ChuThuong.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ss12_ChuHoa_ChuThuong.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ss12_ChuHoa_ChuThuong.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ss12_ChuHoa_ChuThuong.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ss12_ChuHoa_ChuThuong.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ss12_ChuHoa_ChuThuong.dll
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\refint\ss12_ChuHoa_ChuThuong.dll
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ss12_ChuHoa_ChuThuong.pdb
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ss12_ChuHoa_ChuThuong.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_String\ss12_ChuHoa_ChuThuong\obj\Debug\net6.0\ref\ss12_ChuHoa_ChuThuong.dll

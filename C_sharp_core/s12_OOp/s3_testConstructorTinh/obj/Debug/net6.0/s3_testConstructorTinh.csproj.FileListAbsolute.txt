@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\bin\Debug\net6.0\s3_testConstructorTinh.exe
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\bin\Debug\net6.0\s3_testConstructorTinh.deps.json
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\bin\Debug\net6.0\s3_testConstructorTinh.runtimeconfig.json
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\bin\Debug\net6.0\s3_testConstructorTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\bin\Debug\net6.0\s3_testConstructorTinh.pdb
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\s3_testConstructorTinh.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\s3_testConstructorTinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\s3_testConstructorTinh.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\s3_testConstructorTinh.AssemblyInfo.cs
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\s3_testConstructorTinh.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\s3_testConstructorTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\refint\s3_testConstructorTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\s3_testConstructorTinh.pdb
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\s3_testConstructorTinh.genruntimeconfig.cache
+E:\C#\C_sharp_core\s12_OOp\s3_testConstructorTinh\obj\Debug\net6.0\ref\s3_testConstructorTinh.dll

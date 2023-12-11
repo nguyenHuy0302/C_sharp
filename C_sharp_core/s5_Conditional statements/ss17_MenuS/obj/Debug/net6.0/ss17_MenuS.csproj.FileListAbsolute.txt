@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\bin\Debug\net6.0\ss17_MenuS.exe
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\bin\Debug\net6.0\ss17_MenuS.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\bin\Debug\net6.0\ss17_MenuS.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\bin\Debug\net6.0\ss17_MenuS.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\bin\Debug\net6.0\ss17_MenuS.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ss17_MenuS.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ss17_MenuS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ss17_MenuS.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ss17_MenuS.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ss17_MenuS.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ss17_MenuS.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\refint\ss17_MenuS.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ss17_MenuS.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ss17_MenuS.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss17_MenuS\obj\Debug\net6.0\ref\ss17_MenuS.dll

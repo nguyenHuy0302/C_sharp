@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\bin\Debug\net6.0\ss4_CheckYear.exe
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\bin\Debug\net6.0\ss4_CheckYear.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\bin\Debug\net6.0\ss4_CheckYear.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\bin\Debug\net6.0\ss4_CheckYear.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\bin\Debug\net6.0\ss4_CheckYear.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ss4_CheckYear.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ss4_CheckYear.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ss4_CheckYear.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ss4_CheckYear.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ss4_CheckYear.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ss4_CheckYear.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\refint\ss4_CheckYear.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ss4_CheckYear.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ss4_CheckYear.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss4_CheckYear\obj\Debug\net6.0\ref\ss4_CheckYear.dll

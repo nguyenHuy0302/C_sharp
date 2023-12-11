@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\bin\Debug\net6.0\ss3_SumTwoNumbers.exe
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\bin\Debug\net6.0\ss3_SumTwoNumbers.deps.json
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\bin\Debug\net6.0\ss3_SumTwoNumbers.runtimeconfig.json
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\bin\Debug\net6.0\ss3_SumTwoNumbers.dll
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\bin\Debug\net6.0\ss3_SumTwoNumbers.pdb
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ss3_SumTwoNumbers.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ss3_SumTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ss3_SumTwoNumbers.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ss3_SumTwoNumbers.AssemblyInfo.cs
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ss3_SumTwoNumbers.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ss3_SumTwoNumbers.dll
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\refint\ss3_SumTwoNumbers.dll
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ss3_SumTwoNumbers.pdb
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ss3_SumTwoNumbers.genruntimeconfig.cache
+E:\C#\C_sharp_core\s10_Ham\ss3_SumTwoNumbers\obj\Debug\net6.0\ref\ss3_SumTwoNumbers.dll

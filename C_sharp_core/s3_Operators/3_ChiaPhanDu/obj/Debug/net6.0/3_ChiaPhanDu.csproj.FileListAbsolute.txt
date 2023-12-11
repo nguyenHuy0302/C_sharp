@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\bin\Debug\net6.0\3_ChiaPhanDu.exe
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\bin\Debug\net6.0\3_ChiaPhanDu.deps.json
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\bin\Debug\net6.0\3_ChiaPhanDu.runtimeconfig.json
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\bin\Debug\net6.0\3_ChiaPhanDu.dll
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\bin\Debug\net6.0\3_ChiaPhanDu.pdb
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\3_ChiaPhanDu.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\3_ChiaPhanDu.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\3_ChiaPhanDu.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\3_ChiaPhanDu.AssemblyInfo.cs
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\3_ChiaPhanDu.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\3_ChiaPhanDu.dll
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\refint\3_ChiaPhanDu.dll
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\3_ChiaPhanDu.pdb
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\3_ChiaPhanDu.genruntimeconfig.cache
+E:\C#\C_sharp_core\s3_Operators\3_ChiaPhanDu\obj\Debug\net6.0\ref\3_ChiaPhanDu.dll

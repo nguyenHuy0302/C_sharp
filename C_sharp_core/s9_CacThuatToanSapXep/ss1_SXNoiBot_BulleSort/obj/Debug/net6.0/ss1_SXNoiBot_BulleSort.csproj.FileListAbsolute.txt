@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\bin\Debug\net6.0\ss1_SXNoiBot_BulleSort.exe
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\bin\Debug\net6.0\ss1_SXNoiBot_BulleSort.deps.json
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\bin\Debug\net6.0\ss1_SXNoiBot_BulleSort.runtimeconfig.json
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\bin\Debug\net6.0\ss1_SXNoiBot_BulleSort.dll
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\bin\Debug\net6.0\ss1_SXNoiBot_BulleSort.pdb
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ss1_SXNoiBot_BulleSort.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ss1_SXNoiBot_BulleSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ss1_SXNoiBot_BulleSort.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ss1_SXNoiBot_BulleSort.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ss1_SXNoiBot_BulleSort.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ss1_SXNoiBot_BulleSort.dll
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\refint\ss1_SXNoiBot_BulleSort.dll
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ss1_SXNoiBot_BulleSort.pdb
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ss1_SXNoiBot_BulleSort.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss1_SXNoiBot_BulleSort\obj\Debug\net6.0\ref\ss1_SXNoiBot_BulleSort.dll

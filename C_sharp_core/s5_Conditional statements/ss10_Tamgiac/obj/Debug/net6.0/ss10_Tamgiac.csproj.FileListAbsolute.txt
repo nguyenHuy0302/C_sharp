@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\bin\Debug\net6.0\ss10_Tamgiac.exe
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\bin\Debug\net6.0\ss10_Tamgiac.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\bin\Debug\net6.0\ss10_Tamgiac.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\bin\Debug\net6.0\ss10_Tamgiac.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\bin\Debug\net6.0\ss10_Tamgiac.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ss10_Tamgiac.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ss10_Tamgiac.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ss10_Tamgiac.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ss10_Tamgiac.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ss10_Tamgiac.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ss10_Tamgiac.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\refint\ss10_Tamgiac.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ss10_Tamgiac.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ss10_Tamgiac.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss10_Tamgiac\obj\Debug\net6.0\ref\ss10_Tamgiac.dll

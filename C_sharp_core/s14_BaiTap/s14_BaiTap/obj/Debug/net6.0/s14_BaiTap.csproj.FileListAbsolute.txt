@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\bin\Debug\net6.0\s14_BaiTap.exe
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\bin\Debug\net6.0\s14_BaiTap.deps.json
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\bin\Debug\net6.0\s14_BaiTap.runtimeconfig.json
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\bin\Debug\net6.0\s14_BaiTap.dll
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\bin\Debug\net6.0\s14_BaiTap.pdb
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\s14_BaiTap.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\s14_BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\s14_BaiTap.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\s14_BaiTap.AssemblyInfo.cs
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\s14_BaiTap.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\s14_BaiTap.dll
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\refint\s14_BaiTap.dll
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\s14_BaiTap.pdb
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\s14_BaiTap.genruntimeconfig.cache
+E:\C#\C_sharp_core\s14_BaiTap\s14_BaiTap\obj\Debug\net6.0\ref\s14_BaiTap.dll

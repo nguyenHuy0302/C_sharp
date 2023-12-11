@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ss16_Huy/1.0.0": {
+        "runtime": {
+          "ss16_Huy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ss16_Huy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

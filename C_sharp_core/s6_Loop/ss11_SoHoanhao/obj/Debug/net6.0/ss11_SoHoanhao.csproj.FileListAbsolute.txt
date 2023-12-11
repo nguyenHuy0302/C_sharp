@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\bin\Debug\net6.0\ss11_SoHoanhao.exe
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\bin\Debug\net6.0\ss11_SoHoanhao.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\bin\Debug\net6.0\ss11_SoHoanhao.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\bin\Debug\net6.0\ss11_SoHoanhao.dll
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\bin\Debug\net6.0\ss11_SoHoanhao.pdb
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ss11_SoHoanhao.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ss11_SoHoanhao.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ss11_SoHoanhao.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ss11_SoHoanhao.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ss11_SoHoanhao.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ss11_SoHoanhao.dll
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\refint\ss11_SoHoanhao.dll
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ss11_SoHoanhao.pdb
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ss11_SoHoanhao.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss11_SoHoanhao\obj\Debug\net6.0\ref\ss11_SoHoanhao.dll

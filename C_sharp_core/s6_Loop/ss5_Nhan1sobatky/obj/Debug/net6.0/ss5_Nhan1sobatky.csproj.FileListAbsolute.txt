@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\bin\Debug\net6.0\ss5_Nhan1sobatky.exe
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\bin\Debug\net6.0\ss5_Nhan1sobatky.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\bin\Debug\net6.0\ss5_Nhan1sobatky.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\bin\Debug\net6.0\ss5_Nhan1sobatky.dll
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\bin\Debug\net6.0\ss5_Nhan1sobatky.pdb
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ss5_Nhan1sobatky.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ss5_Nhan1sobatky.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ss5_Nhan1sobatky.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ss5_Nhan1sobatky.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ss5_Nhan1sobatky.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ss5_Nhan1sobatky.dll
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\refint\ss5_Nhan1sobatky.dll
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ss5_Nhan1sobatky.pdb
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ss5_Nhan1sobatky.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss5_Nhan1sobatky\obj\Debug\net6.0\ref\ss5_Nhan1sobatky.dll

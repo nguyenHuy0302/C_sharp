@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s11_Struct\class\bin\Debug\net6.0\class.exe
+E:\C#\C_sharp_core\s11_Struct\class\bin\Debug\net6.0\class.deps.json
+E:\C#\C_sharp_core\s11_Struct\class\bin\Debug\net6.0\class.runtimeconfig.json
+E:\C#\C_sharp_core\s11_Struct\class\bin\Debug\net6.0\class.dll
+E:\C#\C_sharp_core\s11_Struct\class\bin\Debug\net6.0\class.pdb
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\class.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\class.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\class.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\class.AssemblyInfo.cs
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\class.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\class.dll
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\refint\class.dll
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\class.pdb
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\class.genruntimeconfig.cache
+E:\C#\C_sharp_core\s11_Struct\class\obj\Debug\net6.0\ref\class.dll

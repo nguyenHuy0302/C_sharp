@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ss5_Doi2GiaTri/1.0.0": {
+        "runtime": {
+          "ss5_Doi2GiaTri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ss5_Doi2GiaTri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

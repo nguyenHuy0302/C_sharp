@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\bin\Debug\net6.0\ss14_CheckDoiXung.exe
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\bin\Debug\net6.0\ss14_CheckDoiXung.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\bin\Debug\net6.0\ss14_CheckDoiXung.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\bin\Debug\net6.0\ss14_CheckDoiXung.dll
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\bin\Debug\net6.0\ss14_CheckDoiXung.pdb
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ss14_CheckDoiXung.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ss14_CheckDoiXung.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ss14_CheckDoiXung.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ss14_CheckDoiXung.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ss14_CheckDoiXung.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ss14_CheckDoiXung.dll
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\refint\ss14_CheckDoiXung.dll
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ss14_CheckDoiXung.pdb
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ss14_CheckDoiXung.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss14_CheckDoiXung\obj\Debug\net6.0\ref\ss14_CheckDoiXung.dll

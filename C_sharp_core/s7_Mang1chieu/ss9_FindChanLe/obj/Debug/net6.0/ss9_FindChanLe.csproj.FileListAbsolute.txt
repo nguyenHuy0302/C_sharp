@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\bin\Debug\net6.0\ss9_FindChanLe.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\bin\Debug\net6.0\ss9_FindChanLe.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\bin\Debug\net6.0\ss9_FindChanLe.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\bin\Debug\net6.0\ss9_FindChanLe.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\bin\Debug\net6.0\ss9_FindChanLe.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ss9_FindChanLe.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ss9_FindChanLe.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ss9_FindChanLe.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ss9_FindChanLe.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ss9_FindChanLe.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ss9_FindChanLe.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\refint\ss9_FindChanLe.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ss9_FindChanLe.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ss9_FindChanLe.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss9_FindChanLe\obj\Debug\net6.0\ref\ss9_FindChanLe.dll

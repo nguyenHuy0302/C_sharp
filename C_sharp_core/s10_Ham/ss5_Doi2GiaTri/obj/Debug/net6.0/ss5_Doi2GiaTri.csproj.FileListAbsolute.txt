@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\bin\Debug\net6.0\ss5_Doi2GiaTri.exe
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\bin\Debug\net6.0\ss5_Doi2GiaTri.deps.json
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\bin\Debug\net6.0\ss5_Doi2GiaTri.runtimeconfig.json
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\bin\Debug\net6.0\ss5_Doi2GiaTri.dll
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\bin\Debug\net6.0\ss5_Doi2GiaTri.pdb
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ss5_Doi2GiaTri.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ss5_Doi2GiaTri.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ss5_Doi2GiaTri.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ss5_Doi2GiaTri.AssemblyInfo.cs
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ss5_Doi2GiaTri.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ss5_Doi2GiaTri.dll
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\refint\ss5_Doi2GiaTri.dll
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ss5_Doi2GiaTri.pdb
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ss5_Doi2GiaTri.genruntimeconfig.cache
+E:\C#\C_sharp_core\s10_Ham\ss5_Doi2GiaTri\obj\Debug\net6.0\ref\ss5_Doi2GiaTri.dll

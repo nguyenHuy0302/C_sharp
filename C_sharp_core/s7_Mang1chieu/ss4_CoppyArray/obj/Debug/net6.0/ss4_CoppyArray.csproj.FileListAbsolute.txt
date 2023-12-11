@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\bin\Debug\net6.0\ss4_CoppyArray.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\bin\Debug\net6.0\ss4_CoppyArray.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\bin\Debug\net6.0\ss4_CoppyArray.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\bin\Debug\net6.0\ss4_CoppyArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\bin\Debug\net6.0\ss4_CoppyArray.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ss4_CoppyArray.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ss4_CoppyArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ss4_CoppyArray.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ss4_CoppyArray.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ss4_CoppyArray.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ss4_CoppyArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\refint\ss4_CoppyArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ss4_CoppyArray.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ss4_CoppyArray.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss4_CoppyArray\obj\Debug\net6.0\ref\ss4_CoppyArray.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "s11_CheckTriangle/1.0.0": {
+        "runtime": {
+          "s11_CheckTriangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s11_CheckTriangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

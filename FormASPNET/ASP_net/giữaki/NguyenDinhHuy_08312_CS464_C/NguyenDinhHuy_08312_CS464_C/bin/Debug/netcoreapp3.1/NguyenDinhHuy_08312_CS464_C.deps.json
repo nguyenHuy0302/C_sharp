@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NguyenDinhHuy_08312_CS464_C/1.0.0": {
+        "runtime": {
+          "NguyenDinhHuy_08312_CS464_C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenDinhHuy_08312_CS464_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

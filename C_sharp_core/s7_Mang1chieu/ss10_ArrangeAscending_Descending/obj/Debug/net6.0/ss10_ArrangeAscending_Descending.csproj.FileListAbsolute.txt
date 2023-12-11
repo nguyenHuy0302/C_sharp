@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\bin\Debug\net6.0\ss10_ArrangeAscending_Descending.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\bin\Debug\net6.0\ss10_ArrangeAscending_Descending.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\bin\Debug\net6.0\ss10_ArrangeAscending_Descending.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\bin\Debug\net6.0\ss10_ArrangeAscending_Descending.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\bin\Debug\net6.0\ss10_ArrangeAscending_Descending.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ss10_ArrangeAscending_Descending.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ss10_ArrangeAscending_Descending.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ss10_ArrangeAscending_Descending.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ss10_ArrangeAscending_Descending.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ss10_ArrangeAscending_Descending.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ss10_ArrangeAscending_Descending.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\refint\ss10_ArrangeAscending_Descending.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ss10_ArrangeAscending_Descending.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ss10_ArrangeAscending_Descending.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss10_ArrangeAscending_Descending\obj\Debug\net6.0\ref\ss10_ArrangeAscending_Descending.dll

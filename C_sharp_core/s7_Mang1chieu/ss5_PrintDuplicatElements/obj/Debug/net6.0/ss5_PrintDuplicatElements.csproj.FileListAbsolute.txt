@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\bin\Debug\net6.0\ss5_PrintDuplicatElements.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\bin\Debug\net6.0\ss5_PrintDuplicatElements.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\bin\Debug\net6.0\ss5_PrintDuplicatElements.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\bin\Debug\net6.0\ss5_PrintDuplicatElements.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\bin\Debug\net6.0\ss5_PrintDuplicatElements.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ss5_PrintDuplicatElements.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ss5_PrintDuplicatElements.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ss5_PrintDuplicatElements.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ss5_PrintDuplicatElements.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ss5_PrintDuplicatElements.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ss5_PrintDuplicatElements.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\refint\ss5_PrintDuplicatElements.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ss5_PrintDuplicatElements.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ss5_PrintDuplicatElements.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss5_PrintDuplicatElements\obj\Debug\net6.0\ref\ss5_PrintDuplicatElements.dll

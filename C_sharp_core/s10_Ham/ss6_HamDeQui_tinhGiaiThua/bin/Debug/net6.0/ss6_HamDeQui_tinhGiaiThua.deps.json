@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ss6_HamDeQui_tinhGiaiThua/1.0.0": {
+        "runtime": {
+          "ss6_HamDeQui_tinhGiaiThua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ss6_HamDeQui_tinhGiaiThua/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

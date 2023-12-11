@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\bin\Debug\net6.0\ss2_SXChon_SelectionSort.exe
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\bin\Debug\net6.0\ss2_SXChon_SelectionSort.deps.json
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\bin\Debug\net6.0\ss2_SXChon_SelectionSort.runtimeconfig.json
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\bin\Debug\net6.0\ss2_SXChon_SelectionSort.dll
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\bin\Debug\net6.0\ss2_SXChon_SelectionSort.pdb
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ss2_SXChon_SelectionSort.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ss2_SXChon_SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ss2_SXChon_SelectionSort.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ss2_SXChon_SelectionSort.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ss2_SXChon_SelectionSort.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ss2_SXChon_SelectionSort.dll
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\refint\ss2_SXChon_SelectionSort.dll
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ss2_SXChon_SelectionSort.pdb
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ss2_SXChon_SelectionSort.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_CacThuatToanSapXep\ss2_SXChon_SelectionSort\obj\Debug\net6.0\ref\ss2_SXChon_SelectionSort.dll

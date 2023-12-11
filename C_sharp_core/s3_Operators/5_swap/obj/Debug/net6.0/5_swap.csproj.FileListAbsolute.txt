@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\5_swap.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\5_swap.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\5_swap.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\5_swap.AssemblyInfo.cs
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\5_swap.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s3_Operators\5_swap\bin\Debug\net6.0\5_swap.exe
+E:\C#\C_sharp_core\s3_Operators\5_swap\bin\Debug\net6.0\5_swap.deps.json
+E:\C#\C_sharp_core\s3_Operators\5_swap\bin\Debug\net6.0\5_swap.runtimeconfig.json
+E:\C#\C_sharp_core\s3_Operators\5_swap\bin\Debug\net6.0\5_swap.dll
+E:\C#\C_sharp_core\s3_Operators\5_swap\bin\Debug\net6.0\5_swap.pdb
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\5_swap.dll
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\refint\5_swap.dll
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\5_swap.pdb
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\5_swap.genruntimeconfig.cache
+E:\C#\C_sharp_core\s3_Operators\5_swap\obj\Debug\net6.0\ref\5_swap.dll

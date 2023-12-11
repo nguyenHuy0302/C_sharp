@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\bin\Debug\net6.0\s4_EpKieu.exe
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\bin\Debug\net6.0\s4_EpKieu.deps.json
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\bin\Debug\net6.0\s4_EpKieu.runtimeconfig.json
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\bin\Debug\net6.0\s4_EpKieu.dll
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\bin\Debug\net6.0\s4_EpKieu.pdb
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\s4_EpKieu.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\s4_EpKieu.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\s4_EpKieu.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\s4_EpKieu.AssemblyInfo.cs
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\s4_EpKieu.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\s4_EpKieu.dll
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\refint\s4_EpKieu.dll
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\s4_EpKieu.pdb
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\s4_EpKieu.genruntimeconfig.cache
+E:\C#\C_sharp_core\s4_EpKieu\s4_EpKieu\obj\Debug\net6.0\ref\s4_EpKieu.dll

@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\bin\Debug\net6.0\ss6_CoppyChuoi.exe
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\bin\Debug\net6.0\ss6_CoppyChuoi.deps.json
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\bin\Debug\net6.0\ss6_CoppyChuoi.runtimeconfig.json
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\bin\Debug\net6.0\ss6_CoppyChuoi.dll
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\bin\Debug\net6.0\ss6_CoppyChuoi.pdb
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ss6_CoppyChuoi.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ss6_CoppyChuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ss6_CoppyChuoi.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ss6_CoppyChuoi.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ss6_CoppyChuoi.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ss6_CoppyChuoi.dll
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\refint\ss6_CoppyChuoi.dll
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ss6_CoppyChuoi.pdb
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ss6_CoppyChuoi.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_String\ss6_CoppyChuoi\obj\Debug\net6.0\ref\ss6_CoppyChuoi.dll

@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\bin\Debug\net6.0\baitapchuong1.exe
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\bin\Debug\net6.0\baitapchuong1.deps.json
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\bin\Debug\net6.0\baitapchuong1.runtimeconfig.json
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\bin\Debug\net6.0\baitapchuong1.dll
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\bin\Debug\net6.0\baitapchuong1.pdb
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\baitapchuong1.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\baitapchuong1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\baitapchuong1.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\baitapchuong1.AssemblyInfo.cs
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\baitapchuong1.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\baitapchuong1.dll
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\refint\baitapchuong1.dll
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\baitapchuong1.pdb
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\baitapchuong1.genruntimeconfig.cache
+E:\C#\C_sharp_core\baitapchuong1\baitapchuong1\obj\Debug\net6.0\ref\baitapchuong1.dll

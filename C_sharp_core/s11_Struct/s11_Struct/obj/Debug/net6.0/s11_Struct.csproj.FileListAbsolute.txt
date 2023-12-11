@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\bin\Debug\net6.0\s11_Struct.exe
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\bin\Debug\net6.0\s11_Struct.deps.json
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\bin\Debug\net6.0\s11_Struct.runtimeconfig.json
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\bin\Debug\net6.0\s11_Struct.dll
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\bin\Debug\net6.0\s11_Struct.pdb
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\s11_Struct.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\s11_Struct.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\s11_Struct.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\s11_Struct.AssemblyInfo.cs
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\s11_Struct.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\s11_Struct.dll
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\refint\s11_Struct.dll
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\s11_Struct.pdb
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\s11_Struct.genruntimeconfig.cache
+E:\C#\C_sharp_core\s11_Struct\s11_Struct\obj\Debug\net6.0\ref\s11_Struct.dll

@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\bin\Debug\net6.0\ss3_BangCuuChuong.exe
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\bin\Debug\net6.0\ss3_BangCuuChuong.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\bin\Debug\net6.0\ss3_BangCuuChuong.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\bin\Debug\net6.0\ss3_BangCuuChuong.dll
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\bin\Debug\net6.0\ss3_BangCuuChuong.pdb
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ss3_BangCuuChuong.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ss3_BangCuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ss3_BangCuuChuong.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ss3_BangCuuChuong.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ss3_BangCuuChuong.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ss3_BangCuuChuong.dll
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\refint\ss3_BangCuuChuong.dll
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ss3_BangCuuChuong.pdb
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ss3_BangCuuChuong.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss3_BangCuuChuong\obj\Debug\net6.0\ref\ss3_BangCuuChuong.dll

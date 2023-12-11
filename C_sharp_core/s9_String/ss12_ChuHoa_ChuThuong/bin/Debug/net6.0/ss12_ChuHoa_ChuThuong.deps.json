@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ss12_ChuHoa_ChuThuong/1.0.0": {
+        "runtime": {
+          "ss12_ChuHoa_ChuThuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ss12_ChuHoa_ChuThuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

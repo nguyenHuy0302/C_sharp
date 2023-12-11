@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\bin\Debug\net6.0\2_DienTichHcn.exe
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\bin\Debug\net6.0\2_DienTichHcn.deps.json
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\bin\Debug\net6.0\2_DienTichHcn.runtimeconfig.json
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\bin\Debug\net6.0\2_DienTichHcn.dll
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\bin\Debug\net6.0\2_DienTichHcn.pdb
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\2_DienTichHcn.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\2_DienTichHcn.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\2_DienTichHcn.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\2_DienTichHcn.AssemblyInfo.cs
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\2_DienTichHcn.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\2_DienTichHcn.dll
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\refint\2_DienTichHcn.dll
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\2_DienTichHcn.pdb
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\2_DienTichHcn.genruntimeconfig.cache
+E:\C#\C_sharp_core\s3_Operators\2_DienTichHcn\obj\Debug\net6.0\ref\2_DienTichHcn.dll

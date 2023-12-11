@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\bin\Debug\net6.0\ss4_InDaoNguoc.exe
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\bin\Debug\net6.0\ss4_InDaoNguoc.deps.json
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\bin\Debug\net6.0\ss4_InDaoNguoc.runtimeconfig.json
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\bin\Debug\net6.0\ss4_InDaoNguoc.dll
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\bin\Debug\net6.0\ss4_InDaoNguoc.pdb
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ss4_InDaoNguoc.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ss4_InDaoNguoc.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ss4_InDaoNguoc.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ss4_InDaoNguoc.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ss4_InDaoNguoc.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ss4_InDaoNguoc.dll
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\refint\ss4_InDaoNguoc.dll
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ss4_InDaoNguoc.pdb
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ss4_InDaoNguoc.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_String\ss4_InDaoNguoc\obj\Debug\net6.0\ref\ss4_InDaoNguoc.dll

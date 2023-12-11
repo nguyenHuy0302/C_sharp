@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\bin\Debug\net6.0\s2_testHamTinh.exe
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\bin\Debug\net6.0\s2_testHamTinh.deps.json
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\bin\Debug\net6.0\s2_testHamTinh.runtimeconfig.json
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\bin\Debug\net6.0\s2_testHamTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\bin\Debug\net6.0\s2_testHamTinh.pdb
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\s2_testHamTinh.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\s2_testHamTinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\s2_testHamTinh.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\s2_testHamTinh.AssemblyInfo.cs
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\s2_testHamTinh.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\s2_testHamTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\refint\s2_testHamTinh.dll
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\s2_testHamTinh.pdb
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\s2_testHamTinh.genruntimeconfig.cache
+E:\C#\C_sharp_core\s12_OOp\s2_testHamTinh\obj\Debug\net6.0\ref\s2_testHamTinh.dll

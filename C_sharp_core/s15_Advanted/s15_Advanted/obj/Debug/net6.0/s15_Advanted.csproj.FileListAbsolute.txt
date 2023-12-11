@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\bin\Debug\net6.0\s15_Advanted.exe
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\bin\Debug\net6.0\s15_Advanted.deps.json
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\bin\Debug\net6.0\s15_Advanted.runtimeconfig.json
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\bin\Debug\net6.0\s15_Advanted.dll
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\bin\Debug\net6.0\s15_Advanted.pdb
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\s15_Advanted.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\s15_Advanted.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\s15_Advanted.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\s15_Advanted.AssemblyInfo.cs
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\s15_Advanted.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\s15_Advanted.dll
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\refint\s15_Advanted.dll
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\s15_Advanted.pdb
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\s15_Advanted.genruntimeconfig.cache
+E:\C#\C_sharp_core\s15_Advanted\s15_Advanted\obj\Debug\net6.0\ref\s15_Advanted.dll

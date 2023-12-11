@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\bin\Debug\net6.0\ss13_CheckLoiNhuan.exe
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\bin\Debug\net6.0\ss13_CheckLoiNhuan.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\bin\Debug\net6.0\ss13_CheckLoiNhuan.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\bin\Debug\net6.0\ss13_CheckLoiNhuan.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\bin\Debug\net6.0\ss13_CheckLoiNhuan.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ss13_CheckLoiNhuan.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ss13_CheckLoiNhuan.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ss13_CheckLoiNhuan.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ss13_CheckLoiNhuan.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ss13_CheckLoiNhuan.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ss13_CheckLoiNhuan.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\refint\ss13_CheckLoiNhuan.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ss13_CheckLoiNhuan.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ss13_CheckLoiNhuan.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss13_CheckLoiNhuan\obj\Debug\net6.0\ref\ss13_CheckLoiNhuan.dll

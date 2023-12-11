@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\bin\Debug\net6.0\ss11_InsertElements.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\bin\Debug\net6.0\ss11_InsertElements.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\bin\Debug\net6.0\ss11_InsertElements.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\bin\Debug\net6.0\ss11_InsertElements.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\bin\Debug\net6.0\ss11_InsertElements.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ss11_InsertElements.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ss11_InsertElements.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ss11_InsertElements.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ss11_InsertElements.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ss11_InsertElements.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ss11_InsertElements.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\refint\ss11_InsertElements.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ss11_InsertElements.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ss11_InsertElements.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss11_InsertElements\obj\Debug\net6.0\ref\ss11_InsertElements.dll

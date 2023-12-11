@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\bin\Debug\net6.0\ss5_ DemSoKyTu.exe
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\bin\Debug\net6.0\ss5_ DemSoKyTu.deps.json
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\bin\Debug\net6.0\ss5_ DemSoKyTu.runtimeconfig.json
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\bin\Debug\net6.0\ss5_ DemSoKyTu.dll
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\bin\Debug\net6.0\ss5_ DemSoKyTu.pdb
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ss5_ DemSoKyTu.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ss5_ DemSoKyTu.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ss5_ DemSoKyTu.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ss5_ DemSoKyTu.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ss5_ DemSoKyTu.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ss5_ DemSoKyTu.dll
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\refint\ss5_ DemSoKyTu.dll
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ss5_ DemSoKyTu.pdb
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ss5_ DemSoKyTu.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_String\ss5_ DemSoKyTu\obj\Debug\net6.0\ref\ss5_ DemSoKyTu.dll

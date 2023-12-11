@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.AssemblyInfo.cs
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\bin\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.exe
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\bin\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.deps.json
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\bin\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.runtimeconfig.json
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\bin\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.dll
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\bin\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.pdb
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.dll
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\refint\ss6_HamDeQui_tinhGiaiThua.dll
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.pdb
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ss6_HamDeQui_tinhGiaiThua.genruntimeconfig.cache
+E:\C#\C_sharp_core\s10_Ham\ss6_HamDeQui_tinhGiaiThua\obj\Debug\net6.0\ref\ss6_HamDeQui_tinhGiaiThua.dll

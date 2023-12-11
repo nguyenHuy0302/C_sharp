@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ss15_Uoc_Boi/1.0.0": {
+        "runtime": {
+          "ss15_Uoc_Boi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ss15_Uoc_Boi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

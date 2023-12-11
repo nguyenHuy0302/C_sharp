@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "s5_Conditional statements/1.0.0": {
+        "runtime": {
+          "s5_Conditional statements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s5_Conditional statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

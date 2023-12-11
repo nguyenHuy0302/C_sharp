@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ss8_TamGiacSo/1.0.0": {
+        "runtime": {
+          "ss8_TamGiacSo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ss8_TamGiacSo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

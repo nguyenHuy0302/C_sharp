@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\bin\Debug\net6.0\ss9_Tamgiaccan.exe
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\bin\Debug\net6.0\ss9_Tamgiaccan.deps.json
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\bin\Debug\net6.0\ss9_Tamgiaccan.runtimeconfig.json
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\bin\Debug\net6.0\ss9_Tamgiaccan.dll
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\bin\Debug\net6.0\ss9_Tamgiaccan.pdb
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ss9_Tamgiaccan.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ss9_Tamgiaccan.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ss9_Tamgiaccan.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ss9_Tamgiaccan.AssemblyInfo.cs
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ss9_Tamgiaccan.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ss9_Tamgiaccan.dll
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\refint\ss9_Tamgiaccan.dll
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ss9_Tamgiaccan.pdb
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ss9_Tamgiaccan.genruntimeconfig.cache
+E:\C#\C_sharp_core\s6_Loop\ss9_Tamgiaccan\obj\Debug\net6.0\ref\ss9_Tamgiaccan.dll

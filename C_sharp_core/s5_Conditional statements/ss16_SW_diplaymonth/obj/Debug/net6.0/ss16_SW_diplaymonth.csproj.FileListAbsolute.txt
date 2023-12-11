@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\bin\Debug\net6.0\ss16_SW_diplaymonth.exe
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\bin\Debug\net6.0\ss16_SW_diplaymonth.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\bin\Debug\net6.0\ss16_SW_diplaymonth.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\bin\Debug\net6.0\ss16_SW_diplaymonth.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\bin\Debug\net6.0\ss16_SW_diplaymonth.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ss16_SW_diplaymonth.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ss16_SW_diplaymonth.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ss16_SW_diplaymonth.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ss16_SW_diplaymonth.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ss16_SW_diplaymonth.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ss16_SW_diplaymonth.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\refint\ss16_SW_diplaymonth.dll
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ss16_SW_diplaymonth.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ss16_SW_diplaymonth.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\ss16_SW_diplaymonth\obj\Debug\net6.0\ref\ss16_SW_diplaymonth.dll

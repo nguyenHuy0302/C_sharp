@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ss2_FindPrime/1.0.0": {
+        "runtime": {
+          "ss2_FindPrime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ss2_FindPrime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

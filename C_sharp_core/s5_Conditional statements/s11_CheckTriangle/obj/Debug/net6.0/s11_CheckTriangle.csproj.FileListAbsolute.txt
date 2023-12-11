@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\bin\Debug\net6.0\s11_CheckTriangle.exe
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\bin\Debug\net6.0\s11_CheckTriangle.deps.json
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\bin\Debug\net6.0\s11_CheckTriangle.runtimeconfig.json
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\bin\Debug\net6.0\s11_CheckTriangle.dll
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\bin\Debug\net6.0\s11_CheckTriangle.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\s11_CheckTriangle.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\s11_CheckTriangle.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\s11_CheckTriangle.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\s11_CheckTriangle.AssemblyInfo.cs
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\s11_CheckTriangle.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\s11_CheckTriangle.dll
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\refint\s11_CheckTriangle.dll
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\s11_CheckTriangle.pdb
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\s11_CheckTriangle.genruntimeconfig.cache
+E:\C#\C_sharp_core\s5_Conditional statements\s11_CheckTriangle\obj\Debug\net6.0\ref\s11_CheckTriangle.dll

@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\bin\Debug\net6.0\ss8_MaxMinOfArray.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\bin\Debug\net6.0\ss8_MaxMinOfArray.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\bin\Debug\net6.0\ss8_MaxMinOfArray.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\bin\Debug\net6.0\ss8_MaxMinOfArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\bin\Debug\net6.0\ss8_MaxMinOfArray.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ss8_MaxMinOfArray.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ss8_MaxMinOfArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ss8_MaxMinOfArray.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ss8_MaxMinOfArray.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ss8_MaxMinOfArray.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ss8_MaxMinOfArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\refint\ss8_MaxMinOfArray.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ss8_MaxMinOfArray.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ss8_MaxMinOfArray.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss8_MaxMinOfArray\obj\Debug\net6.0\ref\ss8_MaxMinOfArray.dll

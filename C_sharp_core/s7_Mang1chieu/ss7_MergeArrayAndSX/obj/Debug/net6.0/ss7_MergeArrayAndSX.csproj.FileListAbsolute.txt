@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\bin\Debug\net6.0\ss7_MergeArrayAndSX.exe
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\bin\Debug\net6.0\ss7_MergeArrayAndSX.deps.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\bin\Debug\net6.0\ss7_MergeArrayAndSX.runtimeconfig.json
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\bin\Debug\net6.0\ss7_MergeArrayAndSX.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\bin\Debug\net6.0\ss7_MergeArrayAndSX.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ss7_MergeArrayAndSX.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ss7_MergeArrayAndSX.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ss7_MergeArrayAndSX.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ss7_MergeArrayAndSX.AssemblyInfo.cs
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ss7_MergeArrayAndSX.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ss7_MergeArrayAndSX.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\refint\ss7_MergeArrayAndSX.dll
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ss7_MergeArrayAndSX.pdb
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ss7_MergeArrayAndSX.genruntimeconfig.cache
+E:\C#\C_sharp_core\s7_Mang1chieu\ss7_MergeArrayAndSX\obj\Debug\net6.0\ref\ss7_MergeArrayAndSX.dll

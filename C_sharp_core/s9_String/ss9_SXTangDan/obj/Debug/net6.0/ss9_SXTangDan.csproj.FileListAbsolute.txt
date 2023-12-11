@@ -1,0 +1,15 @@
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\bin\Debug\net6.0\ss9_SXTangDan.exe
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\bin\Debug\net6.0\ss9_SXTangDan.deps.json
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\bin\Debug\net6.0\ss9_SXTangDan.runtimeconfig.json
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\bin\Debug\net6.0\ss9_SXTangDan.dll
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\bin\Debug\net6.0\ss9_SXTangDan.pdb
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ss9_SXTangDan.csproj.AssemblyReference.cache
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ss9_SXTangDan.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ss9_SXTangDan.AssemblyInfoInputs.cache
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ss9_SXTangDan.AssemblyInfo.cs
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ss9_SXTangDan.csproj.CoreCompileInputs.cache
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ss9_SXTangDan.dll
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\refint\ss9_SXTangDan.dll
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ss9_SXTangDan.pdb
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ss9_SXTangDan.genruntimeconfig.cache
+E:\C#\C_sharp_core\s9_String\ss9_SXTangDan\obj\Debug\net6.0\ref\ss9_SXTangDan.dll
