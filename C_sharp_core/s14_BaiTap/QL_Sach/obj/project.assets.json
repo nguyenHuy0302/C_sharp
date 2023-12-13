@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\C_sharp_core\\s14_BaiTap\\QL_Sach\\QL_Sach.csproj",
+      "projectUniqueName": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\QL_Sach\\QL_Sach.csproj",
       "projectName": "QL_Sach",
-      "projectPath": "E:\\C#\\C_sharp_core\\s14_BaiTap\\QL_Sach\\QL_Sach.csproj",
+      "projectPath": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\QL_Sach\\QL_Sach.csproj",
       "packagesPath": "C:\\Users\\TechCare\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\C_sharp_core\\s14_BaiTap\\QL_Sach\\obj\\",
+      "outputPath": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\QL_Sach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TechCare\\AppData\\Roaming\\NuGet\\NuGet.Config",

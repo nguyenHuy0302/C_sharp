@@ -36,7 +36,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
                         break; 
                     case 3: Booking(customers, hotels, books);// book de luu / hotel,customers -> luu va quan li
                         break;
-                    case 4:
+                    case 4: FindBookingAvaiable(hotels,books);
+                        // nhap vao 1 nay book va ngay tra phong , in ra tat ca  cac phong co the dap ung yeu cau tren                     
                         break; 
                     case 5:
                         break;
@@ -49,15 +50,98 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 }
             } while (choose != 7);
         }
+
+
+        //Find Booking avaiable
+        static void FindBookingAvaiable(List<Hotel> hotels , List<Book> books)
+        {
+            if(hotels.Count == 0)
+            {
+                Console.WriteLine("Khong co du lieu !");
+                return;
+            }
+            Hotel currentHotel = null;
+            for(; ; )
+            {
+                foreach(Hotel item in hotels)
+                {
+                    Console.WriteLine("Ma Ks : {0} , Ten KS : {1}", item.HotelCode1, item.Name1);
+
+                }
+                string HotelCode1 = Console.ReadLine();
+                foreach(Hotel item in hotels)
+                {
+                    if (item.HotelCode1.Equals(HotelCode1))
+                    {
+                        currentHotel = item; 
+                        break;
+                    }               
+                }
+                if(currentHotel == null)
+                {
+                    break;
+                }
+                if(currentHotel != null)
+                {
+                    break;
+                }
+                Console.WriteLine(" Vui Long nhap lai !");
+
+            }
+            if(currentHotel.RoomList1.Count== 0)
+            {
+                Console.WriteLine("Khong co data");
+                return;
+            }
+            Console.Write(" Ngay CheckIn (dd/MM/yyyy) ");
+            string dateTime = Console.ReadLine();
+            DateTime CheckIn1 = DateTime.ParseExact(dateTime, "dd/MM/yyyy", null);
+
+            Console.Write("Ngay CheckOut (dd/MM/yyyy) ");
+            dateTime = Console.ReadLine();
+            DateTime CheckOut1 = DateTime.ParseExact(dateTime, "dd/MM/yyyy", null);
+
+            foreach (Room room in currentHotel.RoomList1)
+            {
+                //Tim da danh sach booking cho phong room.
+                List<Book> currentBooking = new List<Book>();
+                foreach (Book book in books)
+                {
+                    if (book.HotelCode1.Equals(currentHotel.HotelCode1) && book.RoomNo1.Equals(room.RoomNo1))
+                    {
+                        currentBooking.Add(book);
+                    }
+                }
+                //Kiem tra phong nay co kha nang book hay ko
+                bool isFind = false;
+                foreach (Book book in currentBooking)
+                {
+                    if (DateTime.Compare(book.CheckIn1, CheckOut1) > 0 || DateTime.Compare(book.CheckOut1, CheckIn1) < 0)
+                    {
+                        //OK
+                    }
+                    else
+                    {
+                        isFind = true;
+                        break;
+                    }
+                }
+
+                if (!isFind)
+                {
+                    Console.WriteLine("Phòng số: {0}, Tên phòng: {1}", room.RoomNo1, room.RoomName1);
+                }
+            }
+        }
+
+
         //Booking
         static void Booking(List<Customer> customers , List<Hotel> hotels , List<Book> books)
         {
             Book book = new Book();
-            book.Input();
+            book.Input(customers , hotels);
 
             books.Add(book);
-
-
         }
 
         // Input

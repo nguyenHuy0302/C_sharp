@@ -59,53 +59,51 @@ namespace QL_KhachSan.Modals
 
             }
 
-        
+ // Ma khach san       
             Console.Write("Nhap ma khach san :");
             HotelCode = Console.ReadLine();
 
             for(; ; )
             {
-                Hotel currenHotel = null;
+                Hotel currentHotel = null;
                 foreach (Hotel item in hotels)
                 {
                     Console.WriteLine("Ma Ks : {0}, Ten KS : {1} ",item.HotelCode1,item.Name1 );
                 }
-                HotelCode1 = Console.ReadLine();
+                 HotelCode1 = Console.ReadLine();
 
                 foreach(Hotel item in hotels)
                 {
                     if (item.HotelCode1.Equals(HotelCode1))
                     {
-                        currenHotel=item;
+                        currentHotel = item;
                         break;
                     }
                 }
-                if(currenHotel != null)
+                if(currentHotel != null)
                 {
                     break;
                 }
                 Console.WriteLine(" Nhap lai :");
             }
 
+            // Nhap ma Phong
+            Console.Write("Nhap ma phong :");
+            RoomNo1 = Console.ReadLine();
+            
 
-            Console.Write("Nhap ma phong");
-            RoomNo = Console.ReadLine();
-
-            Console.Write(" Ngay CheckIn (dd//MM//yyyy) ");
+            Console.Write(" Ngay CheckIn (dd/MM/yyyy) ");
             string dateTime = Console.ReadLine();
             CheckIn = ConvertStringToDateTime(dateTime);
 
-            Console.Write("Ngay CheckOut (dd//MM//yyyy) ");
+            Console.Write("Ngay CheckOut (dd/MM/yyyy) ");
             dateTime = Console.ReadLine();
             CheckOut = ConvertStringToDateTime(dateTime);
-
-
-
         }
 
         public DateTime ConvertStringToDateTime(string value)
         {
-            DateTime myDate = DateTime.ParseExact("value", "dd/MM/yyyy", null);
+            DateTime myDate = DateTime.ParseExact(value, "dd/MM/yyyy", null);
             return myDate;
         }
 

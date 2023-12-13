@@ -18,7 +18,7 @@ namespace QL_KhachSan.Modals
 
         public Hotel()
         {
-            RoomList1 = new List<Room>();
+            RoomList = new List<Room>();
         }
 
         public string HotelCode1 { get => HotelCode; set => HotelCode = value; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\s14_BaiTap.csproj": {}
+    "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\s14_BaiTap.csproj": {}
   },
   "projects": {
-    "E:\\C#\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\s14_BaiTap.csproj": {
+    "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\s14_BaiTap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\s14_BaiTap.csproj",
+        "projectUniqueName": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\s14_BaiTap.csproj",
         "projectName": "s14_BaiTap",
-        "projectPath": "E:\\C#\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\s14_BaiTap.csproj",
+        "projectPath": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\s14_BaiTap.csproj",
         "packagesPath": "C:\\Users\\TechCare\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\obj\\",
+        "outputPath": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\s14_BaiTap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TechCare\\AppData\\Roaming\\NuGet\\NuGet.Config",

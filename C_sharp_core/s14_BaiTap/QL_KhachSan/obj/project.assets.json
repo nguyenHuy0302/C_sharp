@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\C_sharp_core\\s14_BaiTap\\QL_KhachSan\\QL_KhachSan.csproj",
+      "projectUniqueName": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\QL_KhachSan\\QL_KhachSan.csproj",
       "projectName": "QL_KhachSan",
-      "projectPath": "E:\\C#\\C_sharp_core\\s14_BaiTap\\QL_KhachSan\\QL_KhachSan.csproj",
+      "projectPath": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\QL_KhachSan\\QL_KhachSan.csproj",
       "packagesPath": "C:\\Users\\TechCare\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\C_sharp_core\\s14_BaiTap\\QL_KhachSan\\obj\\",
+      "outputPath": "E:\\C-sharp\\C_sharp_core\\s14_BaiTap\\QL_KhachSan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TechCare\\AppData\\Roaming\\NuGet\\NuGet.Config",
